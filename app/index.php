@@ -3,7 +3,7 @@
 require '../vendor/autoload.php';
 
 
-$token = ('70f3db69a505c343d12705d642960e556cb6a8a1');
+$token = "GET YOUR OWN TOKEN";
 
 $loader = new Twig_Loader_Filesystem('templates');
 $twig = new Twig_Environment($loader);
